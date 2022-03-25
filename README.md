@@ -6,7 +6,7 @@
   
 void* calls(void* ptr)
 {
-    printf("GeeksForGeeks");
+    printf("Hello world");
   
     // To exit the current thread
     // pthread_self() return the particular thread id
